@@ -3,6 +3,7 @@
 ## Breve descrição do projeto
 
   A arquitetura conhecida como U-Net (proposta em 2015 no artigo "U-Net: Convolutional Networks for Biomedical Image Segmentation") já é amplamente conhecida no cenário de segmentação de imagens. No presente projeto ela foi implementada visando especificamente segmentar imagens de ressonâncias magnéticas para encontrar LGGs (gliomas de baixo grau).
+  
   A motivação para criação deste código surgiu a partir de um projeto de feira de ciências escolar, em que buscamos apresentar uma proposta de implementação em larga escala da arquitetura no SUS, por conta do grande potencial de ganho econômico, ganho de eficiência e ganho de vidas.
 
 ## O que foi utilizado para cria-lá, treina-lá e como o código foi organizado?

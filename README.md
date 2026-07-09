@@ -8,7 +8,7 @@
 
 ## O que foi utilizado para cria-lá, treina-lá e como o código foi organizado?
   
-  O código foi criado se baseando no PyTorch. Para treinamento e inferência nos utilizamos da GPU do Google Colab integrada ao VS Code, porém nada te impede de utilizar a sua própria GPU, apenas algumas poucas mudanças serão necessárias (retirada dos imports do Google e mudanças de caminhos).
+  O código foi criado na linguagem Python com a livraria PyTorch. Para treinamento e inferência nos utilizamos da GPU do Google Colab integrada ao VS Code, porém nada te impede de utilizar a sua própria GPU, apenas algumas poucas mudanças serão necessárias (retirada dos imports do Google e mudanças de caminhos).
 
   O dataset utilizado para treino e inferência foi o "Brain MRI Segmentation" postado por Matheusz Buda no Kaggle. Ele contém 3929 imagens de ressonâncias magnéticas de mais de 110 pacientes diferentes; cada imagem possui uma label com a posição do LGG.
         
